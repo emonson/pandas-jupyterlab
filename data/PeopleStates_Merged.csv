@@ -1,0 +1,16 @@
+name,variable,state,population_2010,house_seats
+Sue,2,California,37254503.0,53.0
+Iris,2,California,37254503.0,53.0
+Tamika,0,Florida,18804623.0,27.0
+Bobby,1,Michigan,9884129.0,14.0
+Iris,0,Washington,6724543.0,10.0
+Tamika,1,Washington,6724543.0,10.0
+Sue,0,Wisconsin,5687289.0,8.0
+Iris,1,Oregon,3831073.0,5.0
+Sue,1,Nevada,2700691.0,4.0
+Cale,0,South Dakota,814191.0,1.0
+Bobby,0,Wyoming,563767.0,1.0
+Cale,1,,,
+Bobby,2,,,
+Tamika,2,,,
+Cale,2,,,

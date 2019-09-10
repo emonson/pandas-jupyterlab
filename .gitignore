@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+data/*.tex
+data/*.r
+.DS_Store
