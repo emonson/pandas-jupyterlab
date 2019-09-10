@@ -1,20 +1,17 @@
-# Tidy Data in Python
+# Python for Data Science: Pandas and JupyterLab
 
-**Author**
-Jean-Nicholas Hould
+Eric E Monson  
+[Duke Libraries Center for Data and Visualization Sciences](http://library.duke.edu/data)
 
-**Description**
-This notebook demonstrates some manipulations to transform messy datasets into the 
-tidy format using Python pandas.
 
-**Additional Information**
-For any additional details, please read my 
-[blog post](http://www.jeannicholashould.com/tidy-data-in-python.html) 
-which covers in details this notebook.
 
 ---
-Modifications to original by Eric E Monson  
-[Duke Data and Visualization Services](http://library.duke.edu/data)
+**Tidy Data Exercises**
+are from the blog post by Jean-Nicholas Hould
+[blog post](http://www.jeannicholashould.com/tidy-data-in-python.html) 
+and [hist accompanying GitHub repository](https://github.com/nickhould/tidy-data-python)
+
+---
 
 ### Extra Resources
 
