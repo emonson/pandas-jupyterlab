@@ -1,9 +1,18 @@
 # Python for Data Science: Pandas and JupyterLab
 
+## Workshop modules:
+
+1. [Data structures for spreadsheets in Python](DataStructures.ipynb)
+1. [Accessing your tabular data](AccessingDataFrames.ipynb)
+1. [Concatenating files](Concatenation.ipynb)
+1. [Pandas built-in plotting](PandasPlot.ipynb)
+1. [Intro to Tidy Data](TidyDataIntro)
+1. [Intro to tidy data plotting with Seaborn](SeabornIntro.ipynb)
+1. [Melt into tidy data](TidyDataWork.ipynb)
+1. [Tidy data exercise](PewExercise.ipynb)
+
 Eric E Monson  
 [Duke Libraries Center for Data and Visualization Sciences](http://library.duke.edu/data)
-
-
 
 ---
 **Tidy Data Exercises**
