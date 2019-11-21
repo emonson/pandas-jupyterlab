@@ -7,7 +7,7 @@
 1. [Pandas built-in plotting](BasicPandasPlotting.ipynb)
 1. [Plotting exercise](PlottingExercise.ipynb)
 
-1. [Intro to Tidy Data](TidyDataIntro)
+1. [Intro to Tidy Data](TidyDataIntro.ipynb)
 1. [Intro to tidy data plotting with Seaborn](SeabornIntro.ipynb)
 1. [Melt into tidy data](MeltIntro.ipynb)
 1. [Melt data exercise](MeltExercise.ipynb)
