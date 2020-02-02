@@ -2,26 +2,32 @@
 
 ## Workshop modules:
 
+### Pandas 101 – Fall 2019
+
 1. [Data structures for spreadsheets in Python](DataStructures.ipynb)
 1. [Accessing your tabular data](AccessingDataFrames.ipynb)
 1. [Pandas built-in plotting](BasicPandasPlotting.ipynb)
 1. [Plotting exercise](PlottingExercise.ipynb)
 
+### Pandas 102 – Spring 2020
+
+1. [DataFrame Review](DataFrameReview.ipynb)
 1. [Intro to Tidy Data](TidyDataIntro.ipynb)
 1. [Intro to tidy data plotting with Seaborn](SeabornIntro.ipynb)
 1. [Melt into tidy data](MeltIntro.ipynb)
 1. [Melt data exercise](MeltExercise.ipynb)
+1. [Merge (JOIN) datasets](MergeDatasets.ipynb)
 
 ### Extras
 
 - [Splitting and exploding lists into rows](SplitExplodeLists.ipynb)
-- [Merge (JOIN) datasets](MergeDatasets.ipynb)
 - [Concatenating files](Concatenation.ipynb)
 
 Eric E Monson  
 [Duke Libraries Center for Data and Visualization Sciences](http://library.duke.edu/data)
 
 ---
+
 **Tidy Data Exercises**
 are from the blog post by Jean-Nicholas Hould
 [blog post](http://www.jeannicholashould.com/tidy-data-in-python.html) 
