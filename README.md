@@ -17,11 +17,13 @@
 1. [Melt into tidy data](MeltIntro.ipynb)
 1. [Melt data exercise](MeltExercise.ipynb)
 1. [Merge (JOIN) datasets](MergeDatasets.ipynb)
+1. [Merge (JOIN) exercise](MergeExercise.ipynb)
 
 ### Extras
 
-- [Splitting and exploding lists into rows](SplitExplodeLists.ipynb)
+- [JOIN types](JoinTypes.ipynb)
 - [Concatenating files](Concatenation.ipynb)
+- [Splitting and exploding lists into rows](SplitExplodeLists.ipynb)
 
 Eric E Monson  
 [Duke Libraries Center for Data and Visualization Sciences](http://library.duke.edu/data)
@@ -36,6 +38,12 @@ and [hist accompanying GitHub repository](https://github.com/nickhould/tidy-data
 ---
 
 ### Extra Resources
+
+[Minimally Sufficient Pandas](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
+· A really great post by Ted Petrou with an opinionated guide to which commands and styles of
+coding should be used with Pandas. There are so many ways of doing the same thing in Pandas
+and he helps clarify which to choose and why. *Not a beginner article, but essential for intermediate
+to advanced users.*
 
 [Jupyter Notebook Tutorial](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
 · From Datacamp, gives history, setup and basic usage, with great links to good notebooks
