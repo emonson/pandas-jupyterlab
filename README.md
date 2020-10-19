@@ -19,11 +19,27 @@
 1. [Merge (JOIN) datasets](MergeDatasets.ipynb)
 1. [Merge (JOIN) exercise](MergeExercise.ipynb)
 
+### Pandas 102 – Spring 2020
+
+1. [DataFrame Review](DataFrameReview.ipynb)
+1. [Intro to Tidy Data](TidyDataIntro.ipynb)
+1. [Intro to tidy data plotting with Seaborn](SeabornIntro.ipynb)
+1. [Melt into tidy data](MeltIntro.ipynb)
+1. [Melt data exercise](MeltExercise.ipynb)
+1. [Merge (JOIN) datasets](MergeDatasets.ipynb)
+1. [Merge (JOIN) exercise](MergeExercise.ipynb)
+
+### Pandas 103 – Fall 2020
+
+1. [GroupBy Basics](GroupBy_Basics.ipynb)
+1. [Exploring NC emissions with GroupBy and Pivot Tables](Groupby_NCexploration.ipynb)
+
 ### Extras
 
 - [JOIN types](JoinTypes.ipynb)
 - [Concatenating files](Concatenation.ipynb)
 - [Splitting and exploding lists into rows](SplitExplodeLists.ipynb)
+- [Exploring NC emissions with categorical data columns](Groupby_NCcategorical.ipynb)
 
 Eric E Monson  
 [Duke Libraries Center for Data and Visualization Sciences](http://library.duke.edu/data)
