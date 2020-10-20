@@ -31,8 +31,8 @@
 
 ### Pandas 103 – Fall 2020
 
-1. [GroupBy Basics](GroupBy_Basics.ipynb)
-1. [Exploring NC emissions with GroupBy and Pivot Tables](Groupby_NCexploration.ipynb)
+1. [Groupby Basics](Groupby_Basics.ipynb)
+1. [Exploring NC emissions with Groupby and Pivot Tables](Groupby_NCexploration.ipynb)
 
 ### Extras
 
