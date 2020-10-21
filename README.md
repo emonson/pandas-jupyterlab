@@ -19,16 +19,6 @@
 1. [Merge (JOIN) datasets](MergeDatasets.ipynb)
 1. [Merge (JOIN) exercise](MergeExercise.ipynb)
 
-### Pandas 102 – Spring 2020
-
-1. [DataFrame Review](DataFrameReview.ipynb)
-1. [Intro to Tidy Data](TidyDataIntro.ipynb)
-1. [Intro to tidy data plotting with Seaborn](SeabornIntro.ipynb)
-1. [Melt into tidy data](MeltIntro.ipynb)
-1. [Melt data exercise](MeltExercise.ipynb)
-1. [Merge (JOIN) datasets](MergeDatasets.ipynb)
-1. [Merge (JOIN) exercise](MergeExercise.ipynb)
-
 ### Pandas 103 – Fall 2020
 
 1. [Groupby Basics](Groupby_Basics.ipynb)
