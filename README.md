@@ -2,10 +2,10 @@
 
 ## Workshop modules:
 
-### Pandas 101 – Fall 2019
+### Pandas 101 – Spring 2022 *(work in progress)*
 
 1. [Data structures for spreadsheets in Python](DataStructures.ipynb)
-1. [Accessing your tabular data](AccessingDataFrames.ipynb)
+1. [Accessing your tabular data](DataFrameAccess.ipynb) *inline exercises*
 1. [Pandas built-in plotting](BasicPandasPlotting.ipynb)
 1. [Plotting exercise](PlottingExercise.ipynb)
 
@@ -13,7 +13,7 @@
 
 1. [DataFrame Review](DataFrameReview.ipynb)
 1. [Intro to Tidy Data](TidyDataIntro.ipynb)
-1. [Intro to tidy data plotting with Seaborn](SeabornIntro.ipynb)
+1. [Intro to tidy data plotting with Seaborn](SeabornIntro.ipynb) *inline exercises*
 1. [Melt into tidy data](MeltIntro.ipynb)
 1. [Melt data exercise](MeltExercise.ipynb)
 1. [Merge (JOIN) datasets](MergeDatasets.ipynb)
@@ -21,11 +21,12 @@
 
 ### Pandas 103 – Fall 2020
 
-1. [Groupby Basics](Groupby_Basics.ipynb)
-1. [Exploring NC emissions with Groupby and Pivot Tables](Groupby_NCexploration.ipynb)
+1. [Groupby Basics](Groupby_Basics.ipynb) *inline exercises*
+1. [Exploring NC emissions with Groupby and Pivot Tables](Groupby_NCexploration.ipynb) *inline exercises*
 
 ### Extras
 
+- [Full Accessing DataFrames](FullAccessingDataFrames.ipynb)
 - [JOIN types](JoinTypes.ipynb)
 - [Concatenating files](Concatenation.ipynb)
 - [Splitting and exploding lists into rows](SplitExplodeLists.ipynb)
@@ -60,6 +61,12 @@ and how to set up interactive dashboards
 
 [Pandas cheat sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 · Modeled after R cheat sheet. Very good summary of basic Pandas functions
+
+[Pandas Tutor](https://pandastutor.com/vis.html)
+· Visualizes simple Python Pandas code, showing transformation diagrams
+
+[JupyterLite](https://blog.jupyter.org/jupyterlite-jupyter-%EF%B8%8F-webassembly-%EF%B8%8F-python-f6e2e41ab3fa)
+· JupyterLab distribution that runs entirely in the web browser, backed by in-browser language kernels
 
 [Dramatic Tour of Python visualization tools](https://dansaber.wordpress.com/2016/10/02/a-dramatic-tour-through-pythons-data-visualization-landscape-including-ggplot-and-altair/)
 · Entertaining and illuminating comparison of how various plots would be done with many major
