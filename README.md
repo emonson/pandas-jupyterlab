@@ -2,7 +2,7 @@
 
 ## Workshop modules:
 
-### Pandas 101 – Spring 2022 *(work in progress)*
+### Pandas 101 – Spring 2022
 
 1. [Data structures for spreadsheets in Python](DataStructures.ipynb)
 1. [Accessing your tabular data](DataFrameAccess.ipynb) · *(inline exercises)*
