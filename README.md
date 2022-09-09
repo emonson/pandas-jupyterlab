@@ -9,6 +9,11 @@
 1. [Pandas built-in plotting](BasicPandasPlotting.ipynb)
 1. [Plotting exercise](PlottingExercise.ipynb)
 
+### Assignment Pandas 101 – Fall 2022
+
+1. [Pandas 101 essential review](Pandas101review.ipynb)
+1. [Assignment Pandas 101](AssignmentPandas101.ipynb)
+
 ### Pandas 102 – Spring 2020
 
 1. [DataFrame Review](DataFrameReview.ipynb)
