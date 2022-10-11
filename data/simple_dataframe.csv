@@ -1,0 +1,6 @@
+letters,hundreds,tens,boolean,spelled_out
+A,100,10.0,True,One
+B,200,20.0,False,Two
+c,300,30.0,True,Three
+D,400,40.0,True,Four
+eee,500,50.0,False,Five
