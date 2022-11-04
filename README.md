@@ -14,9 +14,9 @@
 1. [Pandas 101 essential review](Pandas101review.ipynb)
 1. [Assignment Pandas 101](AssignmentPandas101.ipynb)
 
-### Pandas 102 – Spring 2020
+### Pandas 102 – Fall 2022
 
-1. [DataFrame Review](DataFrameReview.ipynb)
+1. [Pandas 101 Review](Pandas101review.ipynb)
 1. [Intro to Tidy Data](TidyDataIntro.ipynb)
 1. [Intro to tidy data plotting with Seaborn](SeabornIntro.ipynb) · *(inline exercises)*
 1. [Melt into tidy data](MeltIntro.ipynb)
