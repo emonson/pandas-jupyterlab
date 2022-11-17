@@ -16,7 +16,6 @@
 
 ### Pandas 102 – Fall 2022
 
-1. [Pandas 101 Review](Pandas101review.ipynb)
 1. [Intro to Tidy Data](TidyDataIntro.ipynb)
 1. [Intro to tidy data plotting with Seaborn](SeabornIntro.ipynb) · *(inline exercises)*
 1. [Melt into tidy data](MeltIntro.ipynb)
