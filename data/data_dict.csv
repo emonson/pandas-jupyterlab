@@ -1,0 +1,6 @@
+letters,hundreds,tens,boolean
+A,100,10.0,True
+B,200,20.0,False
+c,300,30.0,True
+D,400,40.0,True
+eee,500,50.0,False
