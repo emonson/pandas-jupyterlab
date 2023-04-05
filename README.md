@@ -23,7 +23,7 @@
 1. [Merge (JOIN) datasets](MergeDatasets.ipynb)
 1. [Merge (JOIN) exercise](MergeExercise.ipynb)
 
-### Pandas 103 – Fall 2020
+### Pandas 103 – Spring 2023
 
 1. [Groupby Basics](Groupby_Basics.ipynb) · *(inline exercises)*
 1. [Exploring NC emissions with Groupby and Pivot Tables](Groupby_NCexploration.ipynb) · *(inline exercises)*
